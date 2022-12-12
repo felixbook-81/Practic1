@@ -5,6 +5,7 @@ public class Task7 {
         var difference = boxer2 - boxer1;
         var result = boxer2 % boxer1;
         System.out.println("Рзница весов двух бойцов" + difference);
+        System.out.println("Рзница весов двух бойцов" + result);
        
     }
 }
