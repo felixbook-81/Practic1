@@ -3,8 +3,8 @@ public class Task7 {
         var  boxer1= 78.2;
         var  boxer2 = 82.7;
         var difference = boxer2 - boxer1;
-        System.out.println(difference);
         var result = boxer2 % boxer1;
-        System.out.println(result);
+        System.out.println("Рзница весов двух бойцов" + difference);
+       
     }
 }
